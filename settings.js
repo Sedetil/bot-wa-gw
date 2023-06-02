@@ -5,14 +5,14 @@ global.jeropenai = "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"; // ISI
 
 global.sewabot = "SEWA CHAT OWNER 50K"; // ISI HARGA SEWA BOT LU
 
-global.namabot = "Wanz-BOT"; // UBAH JADI NAMA LU
+global.namabot = "Wanz-BOT🗿"; // UBAH JADI NAMA LU
 global.namaowner = "WANZ"; // NAMA OWNER
 global.footer_text = "Wanz-BOT By WANZ"; // NAMA BOT
 global.pp_bot = fs.readFileSync("./image/allmenubot.jpg"); // FOTO BOT MAX 50KB BIAR GA DELAY
 global.qris = fs.readFileSync("./image/qris.jpg"); // FOTO QRIS MAX 50KB BIAR GA DELLAY
 global.owner = ["6285158862314"]; // UBAH NOMOR YANG MAU DI JADIKAN OWNER
-global.packname = "Wanz-BOT"; //sticker wm ubah
-global.author = "Wanz-BOT"; //sticker wm ganti nama kalian
+global.packname = "Wanz-BOT🗿"; //sticker wm ubah
+global.author = "WANZ"; //sticker wm ganti nama kalian
 // = \\
 global.sessionName = "session"; // GAK USAH UBAH
 global.prefa = ["", "!", ".", "🐦", "🐤", "🗿"]; // GAK USAH UBAH

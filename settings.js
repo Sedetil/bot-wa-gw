@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 // APIKEY OPEN AI
-global.jeropenai = "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"; // ISI APIKEY LU
+global.jeropenai = "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"; // ISI APIKEY LU
 
 global.sewabot = "SEWA CHAT OWNER 50K"; // ISI HARGA SEWA BOT LU
 

@@ -21,8 +21,8 @@ global.fakelink = "https://chat.whatsapp.com/6285158862314"; // bebas asal jan h
 global.grubbot = `*INI KAK LINK GRUB NYA*\n\nhttps://chat.whatsapp.com/C2m2XsHWXRkBRYyARCAQzG`; // GANTI LINK GRUB BOT LU \\
 // - \\
 // FALSE OR TRUE \\
-global.autoTyping = true; // BEBAS
-global.welcome = true; // KALO MAU AUTO WELCOME UBAH JADI true
+global.autoTyping = false; // BEBAS
+global.welcome = false; // KALO MAU AUTO WELCOME UBAH JADI true
 global.left = true; // KALO MAU AUTO LEFT UBAH JADI true
 global.anticall = true; // BEBAS
 
